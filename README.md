@@ -1,7 +1,7 @@
 <h3>Hi Fork's Yogesh Verma This Side</h3>
 
 - 👀 I’m interested in Mobile Development and Backend Development
-- 🌱 I’m currently learning Flutter and Backend with Nodejs
+- 🌱 I’m currently learning <img  alt="medium" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/> <img  alt="medium" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/> 
 - 💞️ I’m looking to collaborate on Mobile Development
 - 📫 How to reach me <br/>
 <a href="https://www.instagram.com/yog_eshverma/"><img  alt="medium" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
