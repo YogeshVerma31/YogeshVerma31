@@ -1,14 +1,31 @@
-<h3>Hi Fork's Yogesh Verma This Side</h3>
+<h1 align="center">👋 Hello, I'm Yogesh Verma!</h1>
 
-- 👀 I’m interested in Mobile Development and Backend Development
-- 🌱 I’m currently learning <img  alt="medium" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/> <img  alt="medium" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/> 
-- 💞️ I’m looking to collaborate on Mobile Development
-- 📫 How to reach me <br/>
-<a href="https://www.instagram.com/yog_eshverma/"><img  alt="medium" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/yogesh-verma-0695171a6/"><img  alt="medium" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://medium.com/@jiyogi9758"><img alt="medium" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/></a>
+<p align="center">
+  <img src="https://img.shields.io/badge/Flutter-Enthusiast-blue.svg" />
+  <img src="https://img.shields.io/badge/Node.js-Enthusiast-brightgreen.svg" />
+  <img src="https://img.shields.io/badge/Mobile%20Dev-Enthusiast-orange.svg" />
+</p>
 
-<!---
-YogeshVerma31/YogeshVerma31 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<p align="center">Passionate software engineer diving into the realms of Flutter and Node.js, with a fervent love for mobile development.</p>
+
+## 🌟 About Me
+
+- 💻 Software Engineer specializing in Flutter and Node.js.
+- 📱 Enthusiastic about mobile development and crafting delightful user experiences.
+- 🎓 Constantly learning and exploring new technologies to stay ahead in the ever-evolving tech landscape.
+- 🌱 Currently honing my skills in [Current Focus/Project/Interest].
+
+## 💼 Skills
+
+- Programming Languages: Dart, JavaScript/TypeScript.
+- Frameworks & Technologies: Flutter, Node.js, Express.js.
+- Databases: Firebase, MongoDB, SQLite.
+- Other Tools: Git, VS Code, Docker.
+
+## 📫 Let's Connect!
+
+- LinkedIn: [Yogesh Verma](https://www.linkedin.com/in/yogesh-verma/)
+- Twitter: [@yogeshverma_](https://twitter.com/yogeshverma_)
+- Website: [Your Website](Website URL)
+
+Feel free to explore my repositories and let's build something amazing together! 😊
