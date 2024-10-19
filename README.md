@@ -24,7 +24,7 @@
 
 ## 📫 Let's Connect!
 
-- LinkedIn: [Yogesh Verma](https://www.linkedin.com/in/yogesh-verma/)
+- LinkedIn: [Yogesh Verma](https://www.linkedin.com/in/yogesh-verma-0695171a6/)
 - Twitter: [@yogeshverma_](https://twitter.com/yogeshverma_)
 - Website: [Your Website](Website URL)
 
